@@ -80,7 +80,7 @@ Geliştirici, bu Koşulları ihlal eden herhangi bir sunucu veya kullanıcının
 
 ## 14. Değişiklikler
 
-Bu Koşullar zaman zaman güncellenebilir; güncel sürüm [Koşulların yayımlandığı URL] adresinde yer alır. Önemli değişikliklerde makul ölçüde bilgilendirme yapılmaya çalışılır. Değişiklikten sonra Bot'u kullanmaya devam etmeniz, güncel Koşulları kabul ettiğiniz anlamına gelir.
+Bu Koşullar zaman zaman güncellenebilir; güncel sürüm https://discord.gg/NajRqMSYdG adresinde yer alır. Önemli değişikliklerde makul ölçüde bilgilendirme yapılmaya çalışılır. Değişiklikten sonra Bot'u kullanmaya devam etmeniz, güncel Koşulları kabul ettiğiniz anlamına gelir.
 
 ## 15. Uygulanacak Hukuk
 
